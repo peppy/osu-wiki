@@ -71,8 +71,52 @@ Following is a comprehensive list of the **current state** of lazer in compariso
 | Beatmap submission  |   ✅    |                                                 ❌                                                  |
 | Cross-compatibility |   ✅    | 🟠<br/>(some editor features will cause beatmap to play incorrectly in stable, will be fixed soon) |
 
+## Switching to lazer
 
+So you've decided you want to give lazer a shot? Great!
+
+TODO
 
 ## FAQ
 
+### Is stable going away? Am I going to be forced to switch?
+
+### Can I import all my data from stable to lazer?
+
+Currently, beatmaps, skins, scores, replays and collections can be imported into lazer. Of note, **settings are not yet imported** so you will need to set them up from scratch.
+
+### If I install lazer, will I be able to return to stable?
+
+Yes, lazer always installs alongside stable. Unless you choose to delete one or the other, both will be accessible.
+
+### If I set a score on lazer, will it show on my profile?
+
+Scores will show under "recently played" but not in "best performance" yet.
+
+### If I set a score on lazer, will it contribute to my pp?
+
+Scores will already have pp calculated (you can see this in "recently played"), but it will not contribute to your total "pp" value yet.
+
+### Does lazer use ScoreV2?
+
+### If I set a score on lazer, will it remain forever?
+
+While we will try to preserve as many scores as possible, we **offer no guarantee that scores will remain indefinitely**. At any point we may choose to wipe a subset or all scores in order to preserve game balance.
+
+### Will scores set on stable eventually show in lazer?
+
+Yes. Once we finish balancing the combination of lazer and classic scores, both will be visible.
+
+### How do I access my songs folder?
+
 ### Now that "osu!direct" is available to all players, will supporters have any new benefits?
+
+### Will all mods be "ranked"?
+
+### I don't like the new gameplay mechanics. Can I restore the old gameplay mechanics like on stable?
+
+### If I cheat on lazer will I be banned?
+
+Suck a dick, yes you will be banned.
+
+### Where are the micro-transactions?
