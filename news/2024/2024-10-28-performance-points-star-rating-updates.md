@@ -30,13 +30,11 @@ All new scores set will use the new SR and PP values.
 
 ### ✅ Freeze global rank graph updates (Completed 2024-10-31)
 
-We are about to reprocess every score in existence. Before doing this, we need to disable user rank updates. This means your current global / country rank (and graph) will be frozen in time until we're done reprocessing things.
-
-That said, if you play, your **total PP** will still immediately be updated.
-
-If we didn't do this, users would see their rank jump all over the place, as we have no way of ensuring every score PP and user total PP are updated all at once.
-
-### 🏃 Reprocess performance values of all scores (3 - 10 days, ~15% completed)
+We are about to reprocess every score in existence. Before doing this, we need to disable user rank graph updates. Because we can't update every user at once, this is a safety measure to ensure any temporary jumps in user ranks are not persisted on the graph.
+ 
+That said, if you play, your **total PP** and **global rank** will still immediately be updated. But your global rank will be unstable and may jump around a bit. Don't focus on it too much until things are stable again. We'll let you know, promise.
+ 
+### 🏃 Reprocess performance values of all scores (3 - 10 days, ~30% completed)
 
 We now need to reprocess all 3,734,343,198 scores (this means **any scores you can currently see on the website** will get a new PP value, including scores set on osu!stable and osu!lazer). This is the most time-consuming part of the deploy process.
 
